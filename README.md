@@ -51,7 +51,7 @@ I will update this section regularly as I complete more problems:
 |                            |    --->Patterns             | 22                   | 22                  | 100%          | ✅ Completed  |
 |                            | Lec 3: C++ STL                    | 2                   | 2                  | 100%          | ✅ Completed  |
 |                            | Lec 4: Basic Maths                | 7                   | 7                  | 100%          | ✅ Completed  |
-|                            | Lec 5: Basic recursion            | 9                   | 9                  | 00%          | ✅ Completed |
+|                            | Lec 5: Basic recursion            | 9                   | 9                  | 100%          | ✅ Completed |
 |                            | Lec 6: Basic hashing              | 3                   | 3                  | 00%           | 🟠 In Progress   |
 | **Sorting** [7/7]          | Lec 1: Sorting I                  | 3                   | 3                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Sorting II                 | 4                   | 4                  | 00%          | 🔴 Not Started  |
