@@ -39,7 +39,7 @@ I will update this section regularly as I complete more problems:
 
 ## Overall progress
 
-![Progress](https://img.shields.io/badge/11/455-3%25-red)
+![Progress](https://img.shields.io/badge/27/455-5%25-red)
 
 
 ## Topics Overview
@@ -51,8 +51,8 @@ I will update this section regularly as I complete more problems:
 |                            |    --->Patterns             | 22                   | 22                  | 100%          | ✅ Completed  |
 |                            | Lec 3: C++ STL                    | 2                   | 2                  | 100%          | ✅ Completed  |
 |                            | Lec 4: Basic Maths                | 7                   | 7                  | 100%          | ✅ Completed  |
-|                            | Lec 5: Basic recursion            | 9                   | 9                  | 00%          | 🟠 In Progress  |
-|                            | Lec 6: Basic hashing              | 3                   | 3                  | 00%           | 🔴 Not Started  |
+|                            | Lec 5: Basic recursion            | 9                   | 9                  | 00%          | ✅ Completed |
+|                            | Lec 6: Basic hashing              | 3                   | 3                  | 00%           | 🟠 In Progress   |
 | **Sorting** [7/7]          | Lec 1: Sorting I                  | 3                   | 3                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Sorting II                 | 4                   | 4                  | 00%          | 🔴 Not Started  |
 | **Arrays** [40/40]          | Lec 1: Easy                       | 14                   | 14                  | 00%          | 🔴 Not Started |
