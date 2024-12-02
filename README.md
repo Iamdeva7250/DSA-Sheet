@@ -39,7 +39,7 @@ I will update this section regularly as I complete more problems:
 
 ## Overall progress
 
-![Progress](https://img.shields.io/badge/64/455-14%25-red)
+![Progress](https://img.shields.io/badge/92/455-20%25-red)
 
 
 ## Topics Overview
@@ -57,9 +57,9 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 2: Sorting II                 | 4                   | 4                  | 100%          | ✅ Completed  |
 | **Arrays** [40/40]          | Lec 1: Easy                       | 14                   | 14                  | 100%          | ✅ Completed |
 |                            | Lec 2: Medium                     | 14                   | 14                  | 100%          | ✅ Completed  |
-|                            | Lec 3: Hard                       | 12                   | 12                  | 00%          | 🟠 In Progress  |
-| **Binary Search** [32/32]         | Lec 1: BS on 1D arrays            | 13                   | 13                  | 00%          | 🔴 Not Started  |
-|                            | Lec 2: BS on answers              | 14                   | 14                  | 00%          | 🔴 Not Started  |
+|                            | Lec 3: Hard                       | 12                   | 12                  | 00%          | ✅ Completed |
+| **Binary Search** [32/32]         | Lec 1: BS on 1D arrays            | 13                   | 13                  | 00%          | ✅ Completed  |
+|                            | Lec 2: BS on answers              | 14                   | 14                  | 00%          | 🟠 In Progress  |
 |                            | Lec 3: BS on 2D arrays            | 5                   | 5                   | 00%          | 🔴 Not Started |
 | **Strings[Basic and Medium]** [15/15]               | Lec 1: Basic String problems      | 7                   | 7                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Medium String problems     | 8                   | 8                  | 00%          | 🔴 Not Started |
