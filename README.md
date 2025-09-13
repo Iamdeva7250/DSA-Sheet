@@ -46,10 +46,10 @@ I will update this section regularly as I complete more problems:
 
 | **Topic**                  | **Subtopic**                      | **Problems Solved** | **Total Problems** | **Progress** | **Status**     |
 |----------------------------|----------------------------------|---------------------|--------------------|--------------|----------------|
-|**Basics**   [31/31]         | Lec 1: Basics of C++              | 9                   | 9                  | 100%         | ✅ Completed    |
+|**Basics**   [31/31]         | Lec 1: Basics of JAVA             | 9                   | 9                  | 100%         | ✅ Completed    |
 |                            | Lec 2: Logic building             | 1                   | 1                  | 100%          | ✅ Completed  |
 |                            |    --->Patterns             | 22                   | 22                  | 100%          | ✅ Completed  |
-|                            | Lec 3: C++ STL                    | 2                   | 2                  | 100%          | ✅ Completed  |
+|                            | Lec 3: Java Collection                   | 2                   | 2                  | 100%          | ✅ Completed  |
 |                            | Lec 4: Basic Maths                | 7                   | 7                  | 100%          | ✅ Completed  |
 |                            | Lec 5: Basic recursion            | 9                   | 9                  | 100%          | ✅ Completed |
 |                            | Lec 6: Basic hashing              | 3                   | 3                  | 100%           | ✅ Completed   |
